@@ -1,4 +1,4 @@
-# GameProgLabIS91
+# GameProgLab1IS91
 
 - Ім’я: Таджат Маргарян
 - Шифр групи: ІС-91
